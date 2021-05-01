@@ -8,7 +8,7 @@ h5 {
 
 #container {
     margin: 0 auto;
-    width: 45%;
+    width: 636px;
     display: flex;
     flex-direction: row;
     flex-wrap:wrap;
